@@ -1,0 +1,12 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\bin\Debug\LABTASK3AIN.exe.config
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.vbprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.Form1.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.Resources.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\bin\Debug\LABTASK3AIN.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\bin\Debug\LABTASK3AIN.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\bin\Debug\LABTASK3AIN.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.pdb
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LABTASK3AIN\LABTASK3AIN\obj\Debug\LABTASK3AIN.SplashScreen1.resources
